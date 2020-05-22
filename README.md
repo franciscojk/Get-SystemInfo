@@ -27,7 +27,7 @@ Para utilizar o script, executá-lo conforme exemplo abaixo:
 ```
 *OU*
 ```
-Clicar com o botão direito do mouse no arquivo e selecionar ###Executar com o PowerShell###
+Clicar com o botão direito do mouse no arquivo e selecionar Executar com o PowerShell
 ```
 
 ## Arquivo de saída
